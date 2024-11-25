@@ -10,4 +10,5 @@
   mageck count -l ####library.csv --fastq ###.fastq -n ### --sample-label #### --trim-5 0 --unmapped-to-file##
   
 ##for reverse sequence
+
   mageck count -l ####library.csv --fastq ###.fastq -n ### --sample-label #### --trim-5 0 --unmapped-to-file --reverse-complement
